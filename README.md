@@ -25,3 +25,26 @@ Local server should be running and producing feedback to the Command Line throug
 ### API Credentials
 
 Create API credentials on OpenWeatherMap.com or use existing API key inside :)
+
+## Run
+
+### Install Dependencies
+
+1- open a terminal at the root directory and run the command
+
+2- npm install express
+
+3- npm install cors
+
+4- npm install body-parser
+
+## Start server
+
+1- On the same terminal, Run `node server.js` for a dev server.
+
+2- Navigate to `http://localhost:8080/`. The application will automatically reload if you change any of the source files.
+
+### Hint:
+
+- Before Installing any Dependencies, You have to make a new folder (make it the root directory), and take the server.js file and put it in that folder.
+- Then take the Weather-Journal-App folder and put it in the root folder.
